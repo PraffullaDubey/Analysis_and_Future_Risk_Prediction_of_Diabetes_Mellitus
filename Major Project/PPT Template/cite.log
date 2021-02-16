@@ -1,0 +1,65 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdftex 2020.4.10)  27 APR 2020 20:35
+entering extended mode
+**"C:/gyan/latex/Presentation Yemplate/cite.bib"
+("C:/gyan/latex/Presentation Yemplate/cite.bib"
+Overfull \hbox (1.3294pt too wide) in paragraph at lines 1--123
+\tenrm nal=Information Sci-ences, vol-ume=178, num-ber=15, pages=3110--3117, ye
+ar=2008, pub-lisher=Elsevier  @ar-|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\tenrm n
+.\tenrm a
+.\tenrm l
+.\tenrm =
+.\tenrm I
+.etc.
+
+
+Overfull \hbox (26.19069pt too wide) in paragraph at lines 1--123
+\tenrm ti-cleag-baria2004quantifying, ti-tle=Quantifying roll-back prop-a-ga-ti
+on in dis-tributed check-point-ing, au-thor=Agbaria,|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\tenrm t
+.\tenrm i
+.\discretionary
+..\tenrm -
+.\tenrm c
+.\tenrm l
+.etc.
+
+
+Overfull \hbox (17.80164pt too wide) in paragraph at lines 1--123
+\tenrm ac-tions on Par-al-lel and Dis-tributed Sys-tems, vol-ume=8, num-ber=6, 
+pages=623--627, year=1997, pub-lisher=IEEE|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\tenrm a
+.\tenrm c
+.\discretionary
+..\tenrm -
+.\tenrm t
+.\tenrm i
+.etc.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.193 @misc{Btoolkit_
+                     manuals,title={B-toolkit manuals}, author={B. Core(UK)L...
+
+? $
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? x
+No pages of output.
+PDF statistics:
+ 0 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
