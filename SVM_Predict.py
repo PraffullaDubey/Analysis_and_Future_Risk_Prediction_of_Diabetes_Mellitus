@@ -24,7 +24,7 @@ if not st.sidebar.checkbox("Reset", False, key = '1'):
     skin = st.number_input("Triceps skin fold thickness (in mm):")
     insulin = st.number_input("2-Hour serum insulin: ")
     bmi = st.number_input("Body mass index (weight in kg/(height in m)^2):")
-    dpf = st.number_input("Diabetes Pedigree Function:")
+    dpf = st.number_input("Family History of Diabetes (1 if True 0 if False)")
     age = st.number_input("Age:")
     
 submit = st.button('Press to Predict')
