@@ -1,0 +1,33 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Gr\'{e}dias and Paris}{Gr\'{e}dias and
+  Paris}{1996}]{gredia}
+Gr\'{e}dias, M. and Paris, P.~A. (1996).
+\newblock ``Direct identification of elastic constants of anisotropic plates by
+  modal analysis:theoretical and numerical aspects.''\ {\em Journal of Sound
+  and Vibration}, 195(3), 401--415.
+
+\bibitem[\protect\citeauthoryear{Hearn and Testa}{Hearn and
+  Testa}{1989}]{george}
+Hearn, G. and Testa, R.~B. (1989).
+\newblock ``Modal analysis for damage detection in structures.''\ {\em Journal
+  of structural engineering}, 117(10), 3042--3063.
+
+\bibitem[\protect\citeauthoryear{James and Eberhart}{James and
+  Eberhart}{1995}]{kenndy}
+James, K. and Eberhart, R. (1995).
+\newblock ``Particle swarm optimization.''\ {\em In Proc.of IEEE International
+  Conference on Neural Networks, 1995.}, Vol.~4.  1942 --1948.
+
+\bibitem[\protect\citeauthoryear{Koh, Hong, and Liaw}{Koh
+  et~al.}{2003}]{ssikoh}
+Koh, C.~G., Hong, B., and Liaw, C.~Y. (2003).
+\newblock ``Substructural and progressive structural identification methods.''\
+  {\em Engineering Structures}, 25, 1551--1563.
+
+\bibitem[\protect\citeauthoryear{Meirovitch}{Meirovitch}{2001}]{Leo}
+Meirovitch, L. (2001).
+\newblock {\em Fundamentals of Vibrations}.
+\newblock McGraw-Hill Book Company, 1 edition.
+
+\end{thebibliography}
