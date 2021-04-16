@@ -5,21 +5,7 @@ pickle_in = open('hybrid_model.pkl','rb')
 classifier = pickle.load(pickle_in)
 
 #Creating GUI
-#st.sidebar.header('Prediction Application')
-#select = st.sidebar.selectbox('Select Form',['Application 1'], key = '1')
 
-#if not st.sidebar.checkbox("Reset", False, key = '1'):
-    #st.title('Diabetes Prediction Application')
-    #name = st.text_input("Name:")
-    #pregnancy = st.number_input("Enter Number of pregnancy:")
-    #glucose = st.number_input("Plasma Glucose Concentration:")
-    #bp = st.number_input("Blood pressure (in mm Hg):")
-    #skin = st.number_input("Triceps skin fold thickness (in mm):")
-    #insulin = st.number_input("2-Hour serum insulin: ")
-    #bmi = st.number_input("Body mass index (weight in kg/(height in m)^2):")
-    #dpf = st.number_input("Family History of Diabetes (0 = no 1 = yes):")
-    #age = st.number_input("Age:")
-    
 st.title('Diabetes Prediction Application')
 name = st.text_input("Name:")
 pregnancy = st.number_input("Enter Number of pregnancy:")
@@ -28,7 +14,7 @@ bp = st.number_input("Blood pressure (in mm Hg):")
 skin = st.number_input("Triceps skin fold thickness (in mm):")
 insulin = st.number_input("2-Hour serum insulin: ")
 bmi = st.number_input("Body mass index (weight in kg/(height in m)^2):")
-dpf = st.number_input("Family History of Diabetes (0 = no 1 = yes):")
+dpf = st.number_input("Family History of Diabetes (0 = no, 1 = yes):")
 age = st.number_input("Age:")
 submit = st.button('Press to Predict')
 
